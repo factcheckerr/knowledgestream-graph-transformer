@@ -1,2 +1,7 @@
 # knowledgestream-graph-transformer
-python Transformer.py --graph \path\to\KG
+run using following command
+
+```
+python3.9 Transformer.py --graph \path\to\KG
+
+```
